@@ -14,7 +14,7 @@ if ! command -v sqlmap &> /dev/null; then
 fi
 
 # Target URL
-TARGET_URL="http://example.com" # Replace with your target URL
+TARGET_URL="http://testphp.vulnweb.com/index.php" # Replace with your target URL
 
 # Example 1: Basic testing with --batch
 echo "Running basic testing..."
