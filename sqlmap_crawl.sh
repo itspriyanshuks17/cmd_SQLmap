@@ -1,7 +1,7 @@
 #!/bin/bash
 # SQLmap Crawling and Testing Script
-# Author: [Your Name]
-# Date: [Today's Date]
+# Author: Priyanshu K Sharma
+# Date: 15th Jan 2025
 # Description: Automates SQLmap crawling and testing with various options.
 
 # Check if SQLmap is installed
