@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 # SQLmap Crawling and Testing Script
 # Author: Priyanshu K Sharma
 # Date: 15th Jan 2025

@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env python3
 # SQLmap Automated Testing Script with --batch Option
 # Author: Priyanshu K Sharma
 # Date: 15 Jan 2025
